@@ -5,7 +5,7 @@ I'm interested in game development, artificail intelligence, web development, an
 # 📫 How to reach me: 
 - [![Gmail Badge](https://img.shields.io/badge/-lapis0875@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lapis0875@gmail.com)](mailto:lapis0875@gmail.com)
 - [![Kakao Mail Badge](https://img.shields.io/badge/-lapis0875@kakao.com-ffcd00?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:lapis0875@kakao.com)](mailto:lapis0875@kakao.com)
-- [![Discord Badge](https://img.shields.io/badge/-lapis0875＃1383-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
+- [![Discord Badge](https://img.shields.io/badge/-lapis0875＃1383-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com/users/280855156608860160)
 
 # 💻 Development  Languages:
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
